@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR6h0034/T/v1
+canonical_location: https://kanripo.org/bkk/KR6h0034/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大集會正法經
+  identifiers:
+    krp: KR6h0034
+    cbeta: T13n0424
+    cbeta_old_id: T13n0424
+    authorityid: CA0000608
+    json_key: T0424
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0424.xml
+    old_id: T13n0424
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0034_000-T.yaml, hash: 'sha256:831e776a33f549104c0b43408db3c14966de39c7192c1cc42b632e8e3919caf1'}
+  - {seq: 1, filename: KR6h0034_001-T.yaml, hash: 'sha256:eeccbfa8dd3d83a5b759866fad529022e8f72dff6071affbd4fe2287a5d3e328'}
+  - {seq: 2, filename: KR6h0034_002-T.yaml, hash: 'sha256:ebbd60bcf63509f027a6a74b002c594f8eb85112b05e0495b9b6792764435735'}
+  - {seq: 3, filename: KR6h0034_003-T.yaml, hash: 'sha256:533b5fd68b685e140dac6f9195f7862a20c46c0bd07f9cfa67b84a8c4c1f1f0e'}
+  - {seq: 4, filename: KR6h0034_004-T.yaml, hash: 'sha256:578792bf58623de6fc34f0037bd6edcf125a7d7aab7e19b2ded7019aaf6a1102'}
+  - {seq: 5, filename: KR6h0034_005-T.yaml, hash: 'sha256:29ce00cdb47ae6336c5dfcb684e1bc823046a17745c49f48446336cb35046706'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6h0034_000-T.markers.yaml, hash: 'sha256:77b191358b608d3b0410baa8e3e03d90fe42ee2f8fc54f458a42de8a5c2ba4cf'}
+  - {seq: 1, role: markers, filename: assets/KR6h0034_001-T.markers.yaml, hash: 'sha256:8b40c72be2444d3e908c04edcf6e6333ffd878ed82f45fd4a1e0e7703d7b9912'}
+  - {seq: 2, role: markers, filename: assets/KR6h0034_002-T.markers.yaml, hash: 'sha256:19c5e01e2ba7c0a8e385d4f389f4151bfe153f92207ee66102495ee6e102c735'}
+  - {seq: 3, role: markers, filename: assets/KR6h0034_003-T.markers.yaml, hash: 'sha256:981507e743315be58ebdcd27e43209b319f48e878fd276d2d2f8cefe18726f37'}
+  - {seq: 4, role: markers, filename: assets/KR6h0034_004-T.markers.yaml, hash: 'sha256:4e25fd75cbc0cdcde9a9296284edc0542d9a06ca2421b582b47e62f4cee40a1a'}
+  - {seq: 5, role: markers, filename: assets/KR6h0034_005-T.markers.yaml, hash: 'sha256:222d9b053167f91554282463a335a4d852ff4d7e1a353d73f114ecb5b3d1894b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0034_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4450
+  label: 佛說大集會正法經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0034_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5277
+  label: 佛說大集會正法經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0034_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4723
+  label: 佛說大集會正法經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0034_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6572
+  label: 佛說大集會正法經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0034_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5754
+  label: 佛說大集會正法經卷第五
+  type: juan
+  level: 1
+hash: sha256:3595660a507c61f28666a438715cd8593bf405c955277260c94f7644d8c5d548
