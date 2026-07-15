@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6h0034/v1
 canonical_location: https://kanripo.org/bkk/KR6h0034/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大集會正法經
   identifiers:
@@ -34,18 +34,18 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6h0034_000.yaml, hash: 'sha256:831e776a33f549104c0b43408db3c14966de39c7192c1cc42b632e8e3919caf1'}
-  - {seq: 1, filename: KR6h0034_001.yaml, hash: 'sha256:eeccbfa8dd3d83a5b759866fad529022e8f72dff6071affbd4fe2287a5d3e328'}
-  - {seq: 2, filename: KR6h0034_002.yaml, hash: 'sha256:ebbd60bcf63509f027a6a74b002c594f8eb85112b05e0495b9b6792764435735'}
-  - {seq: 3, filename: KR6h0034_003.yaml, hash: 'sha256:533b5fd68b685e140dac6f9195f7862a20c46c0bd07f9cfa67b84a8c4c1f1f0e'}
-  - {seq: 4, filename: KR6h0034_004.yaml, hash: 'sha256:578792bf58623de6fc34f0037bd6edcf125a7d7aab7e19b2ded7019aaf6a1102'}
-  - {seq: 5, filename: KR6h0034_005.yaml, hash: 'sha256:29ce00cdb47ae6336c5dfcb684e1bc823046a17745c49f48446336cb35046706'}
+  - {seq: 1, filename: KR6h0034_001.yaml, hash: 'sha256:3151470ed6febf2e99ce03a58a1117af600f531de3f96e298c97c5cfec8693d6'}
+  - {seq: 2, filename: KR6h0034_002.yaml, hash: 'sha256:985d267aa33f824338d2907a9424d8a93d33837705e54d07134d6eb7aa9b6422'}
+  - {seq: 3, filename: KR6h0034_003.yaml, hash: 'sha256:55c651394fc0629ca96deb972dcd94910b229ee377a005cc7eccdb4ee6d53099'}
+  - {seq: 4, filename: KR6h0034_004.yaml, hash: 'sha256:cc639cbca1985c67344135818837991b12378512a49811361b027a8ed00d43e1'}
+  - {seq: 5, filename: KR6h0034_005.yaml, hash: 'sha256:cc18789b356f1f7d01dc5fafff550994a86a5fb975a2d1f2383d71dd5274c2d0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6h0034_000.markers.yaml, hash: 'sha256:c0a61a99b4202e895157869a4a6599efec69d7abfe06ca05ecbe79959f64bd85'}
-  - {seq: 1, role: markers, filename: assets/KR6h0034_001.markers.yaml, hash: 'sha256:600bb3ec1367b0ee0a0fc6249df854096ac3cc9673b2d8efeb3a256ee38543cd'}
-  - {seq: 2, role: markers, filename: assets/KR6h0034_002.markers.yaml, hash: 'sha256:840568ca0917821d6c9c5e09f7306f061413e4d53bd1ecfdadda0b153d80a6f8'}
-  - {seq: 3, role: markers, filename: assets/KR6h0034_003.markers.yaml, hash: 'sha256:86fb7464f94c04b306aaadf34e03501fcf1d539a1fe7c92ecfa85492ef9d650a'}
-  - {seq: 4, role: markers, filename: assets/KR6h0034_004.markers.yaml, hash: 'sha256:2b8df61e873e73d6f01e9999c70a52b2e93a8e3728fd6f3e33ca1f36727a3ff1'}
-  - {seq: 5, role: markers, filename: assets/KR6h0034_005.markers.yaml, hash: 'sha256:7817ede7d71ef3d2e1b98bf35d10d7ad837f2fbfd9524a87fb61de57d705b94f'}
+  - {seq: 1, role: markers, filename: assets/KR6h0034_001.markers.yaml, hash: 'sha256:723813c45098dd7c7b372c5e91cf3a33b0bf63f2baac83ef0a83b93e27e5bb1d'}
+  - {seq: 2, role: markers, filename: assets/KR6h0034_002.markers.yaml, hash: 'sha256:b29cbd2641da7433fb5d3fc3c0b35548358096cbb7c8732c4e7be18f07c07aba'}
+  - {seq: 3, role: markers, filename: assets/KR6h0034_003.markers.yaml, hash: 'sha256:b1c78f5ee63cffa478496c77a4978650267bcf46424f2df0489a8a955a432d6a'}
+  - {seq: 4, role: markers, filename: assets/KR6h0034_004.markers.yaml, hash: 'sha256:6ef45d0f2f008713c3771d17def5c8b0f42a8683799cd3b7c3633c42f1cdf453'}
+  - {seq: 5, role: markers, filename: assets/KR6h0034_005.markers.yaml, hash: 'sha256:a9ca0a23d092fe6e76d1982f855be0853ea20211bd8513d20b41a184065fde73'}
 table_of_contents:
 - ref:
     seq: 1
@@ -97,4 +97,7 @@ table_of_contents:
   label: 佛說大集會正法經卷第五
   type: juan
   level: 1
-hash: sha256:edb0d66d2c6599701f43c921050cfd47053b53903d5ce680c9bf58fc00f12894
+hash: sha256:5280a415b4d9e82c9e8bfc6bde9e89c9c386965a120376a6de246740e478b600
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
